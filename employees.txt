@@ -1,0 +1,10 @@
+Adams
+50000
+Baker
+75000
+Smith
+45000
+Jones
+120000
+Clark
+60000
