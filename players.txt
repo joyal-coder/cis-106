@@ -1,0 +1,10 @@
+Jake 40
+Mike 45
+Luke 60
+John 46
+Matthew 23
+Jimmy 80
+Tony 64
+Job 76
+Jacob 56
+Mark 90
